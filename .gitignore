@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
+# Model checkpoints and datasets (large binary files — generated locally)
+*.ckpt
+*.npz

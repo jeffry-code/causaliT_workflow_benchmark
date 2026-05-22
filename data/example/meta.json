@@ -1,0 +1,17 @@
+{
+  "created": "2026-02-23",
+  "description": "d-dimensional Styblinski-Tang with x sampled in [-5,5]^d; inputs normalized to [-1,1]^d and outputs standardized after sampling.",
+  "function": "styblinski_tang",
+  "local_sampling": {
+    "enabled": true,
+    "local_radius": 0.005,
+    "local_seed": 42,
+    "n_local": 100000,
+    "x_star": -2.903534
+  },
+  "name": "styblinski_tang_80d",
+  "x_lower": -5.0,
+  "x_upper": 5.0,
+  "y_mean": -799.971024488199,
+  "y_std": 1075.906427940527
+}
